@@ -17,6 +17,7 @@
 		F010918421E15483005D9B5D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F010918221E15483005D9B5D /* LaunchScreen.storyboard */; };
 		F010918F21E15484005D9B5D /* GameSceneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F010918E21E15484005D9B5D /* GameSceneTests.swift */; };
 		F010919A21E15484005D9B5D /* GameSceneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F010919921E15484005D9B5D /* GameSceneUITests.swift */; };
+		F026C2B121E500230013EA97 /* CoinSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F026C2B021E500230013EA97 /* CoinSound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		F010919521E15484005D9B5D /* GameSceneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GameSceneUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F010919921E15484005D9B5D /* GameSceneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameSceneUITests.swift; sourceTree = "<group>"; };
 		F010919B21E15484005D9B5D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F026C2B021E500230013EA97 /* CoinSound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = CoinSound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				F010918021E15483005D9B5D /* Assets.xcassets */,
 				F010918221E15483005D9B5D /* LaunchScreen.storyboard */,
 				F010918521E15483005D9B5D /* Info.plist */,
+				F026C2B021E500230013EA97 /* CoinSound.mp3 */,
 			);
 			path = GameScene;
 			sourceTree = "<group>";
@@ -239,6 +242,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F010917F21E15482005D9B5D /* Main.storyboard in Resources */,
+				F026C2B121E500230013EA97 /* CoinSound.mp3 in Resources */,
 				F010917621E15482005D9B5D /* GameScene.sks in Resources */,
 				F010918121E15483005D9B5D /* Assets.xcassets in Resources */,
 				F010918421E15483005D9B5D /* LaunchScreen.storyboard in Resources */,
